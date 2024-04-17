@@ -64,7 +64,7 @@ pub fn run(flags: Vec<String>, dir_list: Vec<String>) {
                output version information and exit
  
  AUTHOR
-        Written by Truthixify.";
+        Edited by Mikkyfrosh05.";
         println!("{}", help_txt.gradient(Color::Aquamarine1a));
         return
     }
