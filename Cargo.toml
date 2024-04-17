@@ -6,8 +6,8 @@ authors = ["Mikkyfrosh05 buremohpelumi@gmail.com"]
 license = "MIT OR Apache-2.0"
 description = "A tool to create directories"
 readme = "README.md"
-homepage = "https://github.com/Mikkyfrosh05/rust_mkdir"
-repository = "https://github.com/Mikkyfrosh05/rust_mkdir"
+homepage = "https://github.com/Mikkyfrosh05/rust_mkdir2"
+repository = "https://github.com/Mikkyfrosh05/rust_mkdir2"
 keywords = ["cli", "directory", "linux"]
 categories = ["command-line-utilities"]
 
