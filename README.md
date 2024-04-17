@@ -80,6 +80,6 @@ We would like to express our gratitude to the creators and maintainers of the or
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to contact truthixify at <a>truthixify@gmail.com</a>.
+If you have any questions or suggestions regarding this project, please feel free to contact truthixify at <a>buremohpelumi@gmail@gmail.com</a>.
 
 Happy coding! 🚀
