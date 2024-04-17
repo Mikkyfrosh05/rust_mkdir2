@@ -10,5 +10,5 @@ fn main() {
         std::process::exit(1);
     });
 
-    rust_mkdir::run(config.flags, config.dir_list);
+    rust_mkdir2::run(config.flags, config.dir_list);
 }
